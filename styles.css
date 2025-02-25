@@ -125,3 +125,10 @@ h6{
 #card:hover h5{
    color: hsl(47, 88%, 63%); 
 }
+
+@media screen and (max-width: 768px){
+    #card{
+        scale:1.5;
+    }
+    
+}
