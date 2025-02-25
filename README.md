@@ -44,11 +44,9 @@ Hovered State:
 ![Screenshot of hovered mobile state](./hoveredMobile.png)
 
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Git Hub Website Link](https://rishantgod.github.io/newCardBuildingCSSExcercise/)
 
 ## My process
 
